@@ -4,7 +4,7 @@ import Overview from "./pages/Overview";
 import Projects from "./pages/Projects";
 import Profile from "./pages/Profile";
 import "./App.css"
-import "./layout/Layout"
+import Layout from './layout/Layout';
 
 const App = () => {
   return (
