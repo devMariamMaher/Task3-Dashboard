@@ -1,10 +1,12 @@
 # 📊 Dashboard for a Fictional Freelance Client
 
-## 🌐 Live Demo
-https://task3-dashboard-yacu.vercel.app/
-
 A modern, responsive **React** dashboard built with **Vite**, **Tailwind CSS**, and **Recharts**.  
 Designed to help freelancers manage projects, track earnings, and view key activity — all from a clean, minimal interface.
+
+---
+
+## 🌐 Live Demo
+https://task3-dashboard-yacu.vercel.app/
 
 ---
 
